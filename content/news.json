@@ -1,0 +1,30 @@
+[
+  {
+    "title": "【示例】新棉收购与加工进度周度跟踪",
+    "source": "示例来源",
+    "url": "https://example.com/cotton-news-1",
+    "date": "2026-11-06",
+    "comment": "关注收购价与加工进度是否同步，以及农户交售节奏的变化。"
+  },
+  {
+    "title": "【示例】郑棉主力合约持仓变化观察",
+    "source": "示例来源",
+    "url": "https://example.com/cotton-news-2",
+    "date": "2026-11-05",
+    "comment": "换月窗口内应区分旧合约减仓与新合约增仓。"
+  },
+  {
+    "title": "【示例】棉花现货报价与基差跟踪",
+    "source": "示例来源",
+    "url": "https://example.com/cotton-news-3",
+    "date": "2026-11-04",
+    "comment": "报价口径需要固定，否则基差变化可能混入质量与地区差异。"
+  },
+  {
+    "title": "【示例】仓单及有效预报数据更新",
+    "source": "示例来源",
+    "url": "https://example.com/cotton-news-4",
+    "date": "2026-11-03",
+    "comment": "仓单及有效预报变化要和交割月、价差及现货流动性一起看。"
+  }
+]
